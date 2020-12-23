@@ -1,0 +1,13 @@
+Telephone directory management system
+-------------------------------------
+
+Steps to run the program :
+
+1. Run the program as a normal java program with main method (No server is needed)
+2  Select the particular input which is displayed in the console
+
+
+Telephone directory it will accept the  ID (int), name , residential address and phone number for N subscribers and perform the following operations :
+i) Search for an input name and print their address and phone number.
+ii) Sort the records in the ascending order of the ID.
+iii) Print a report listing all subscribers with their details in a tabular form.
